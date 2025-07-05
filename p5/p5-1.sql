@@ -1,4 +1,4 @@
-DROP FUNCTION IF EXISTS MyCalculate;
+DROP FUNCTION IF EXISTS mydb.MyCalculate;
 
 DELIMITER //
 
